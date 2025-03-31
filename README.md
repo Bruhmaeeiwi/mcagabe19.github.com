@@ -12,7 +12,7 @@ Source Code [Here](https://github.com/mcagabe19/VsSteve-Source-Code-OLDER)
 * [Ben ok (kamodrip)](https://github.com/Akhia11) = Tester (Mobile)
 * [luigionline1](https://github.com/luigionline1) = Tester (Windows And Ubuntu)
 
-## Ludumdare Prototype
+## Ludumdare Prototypes
 
 Source Code [Here](https://github.com/mcagabe19/Funkin-1.0.0)
 
